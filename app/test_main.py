@@ -1,4 +1,4 @@
-from main import is_isogram
+from app.main import is_isogram
 
 
 def test_is_isogram_returns_true_for_word_without_repeating_letters() -> None:
